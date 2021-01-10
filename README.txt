@@ -4,7 +4,6 @@ ENGLISH:
 
 To open the app simply click the .exe file. 
 
-*If the program doesn´t work correctly on the first try, close and open it again*
 
 Controls:
 
