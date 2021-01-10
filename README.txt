@@ -24,11 +24,11 @@ Controls:
  
  --------------------------------------------------------------------------------------------------------------------
  
- To run this program you´ll need to install GLFW 32bit, GLEW 32bit and GLM 32bit, after that, configure such libraries in the project.
+ To run this program in  you´ll need to install GLFW 32bit, GLEW 32bit and GLM 32bit, after that, configure such libraries in the project.
  
- It is also needed to configure the pre-processor by implementing '_CRT_SECURE_NO_WARNINGS' in C/C++ -> Preprocessor -> Preprocessor definition.
- 
- Add Winmm.lib in Linker->input-> Additional libraries
+ IN VISUAL STUDIO:
+  -It is needed to configure the pre-processor by implementing '_CRT_SECURE_NO_WARNINGS' in C/C++ -> Preprocessor -> Preprocessor definition.
+  -Add Winmm.lib in Linker->input-> Additional libraries
  
  And that´s it. Enjoy!
  
