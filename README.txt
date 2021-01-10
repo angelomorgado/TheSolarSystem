@@ -18,3 +18,8 @@ Controls:
  - 'E' -> Turn on/off real scale
  - 'R' -> Reset everything
  - 'LEFT SHIFT' -> Move faster
+ - 1-9 -> Hold to see the info about the planet
+ 
+ -There´s an hidden entity somewhere in the galaxy and a forgotten secret.....
+ 
+ 
