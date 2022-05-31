@@ -1,4 +1,4 @@
-## _.~^-~._ _.~^-~._SOLAR SYSTEM _.~^-~._ _.~^-~._
+## ----------------------------------------SOLAR SYSTEM----------------------------------------
 
 ### ENGLISH:
 
@@ -20,10 +20,11 @@ To open the app simply click the .exe file.
  -There´s an hidden entity somewhere in the galaxy and a forgotten secret.....
  
  --------------------------------------------------------------------------------------------------------------------
+ #### Config:
  
  To run this program in  you´ll need to install GLFW 32bit, GLEW 32bit and GLM 32bit, after that, configure such libraries in the project.
  
- IN VISUAL STUDIO:
+ ###### IN VISUAL STUDIO:
   -It is needed to configure the pre-processor by implementing '_CRT_SECURE_NO_WARNINGS' in C/C++ -> Preprocessor -> Preprocessor definition.
   -Add Winmm.lib in Linker->input-> Additional libraries
  
