@@ -1,12 +1,10 @@
-------------SOLAR SYSTEM----------------------------------------
+## ----------------------------------------SOLAR SYSTEM----------------------------------------
 
-ENGLISH:
+### ENGLISH:
 
 To open the app simply click the .exe file. 
 
-
-Controls:
-
+#### Controls:
  - 'W'/'UP' -> Move fowards
  - 'S'/'DOWN' -> Move backwards
  - 'A'/'LEFT' -> Move left
